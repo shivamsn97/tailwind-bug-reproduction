@@ -1,0 +1,1 @@
+npx tailwindcss-cli@latest build -c .\tailwind.config.js -o ./build-tailwind.css
