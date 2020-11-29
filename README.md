@@ -10,6 +10,11 @@ Version	20H2
 Installed on	‎02-‎10-‎2020
 OS build	19042.630
 Experience	Windows Feature Experience Pack 120.2212.31.0
+
+PS D:\work> node -v
+v12.19.0
+PS D:\work> npm -v
+6.14.8
 ```
 
 
