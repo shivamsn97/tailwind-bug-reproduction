@@ -25,7 +25,7 @@ PS D:\work> npm -v
 ### Steps to reproduce
 - Clone this repo using command:
 
-  `git clone https://github.com/shivamsn97/tailwind-bug-reproduction/edit/master/README.md`
+  `git clone https://github.com/shivamsn97/tailwind-bug-reproduction`
 - Verify files:
   - html/index.html contains a minimum html example which uses dark varients of classes.
   - tailwind.config.js is a valid js and has purge option set to true on all html files.
